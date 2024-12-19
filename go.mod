@@ -1,4 +1,4 @@
-module github.com/ActianCorp/helm-push
+module github.com/BergCyrill/helm-push
 
 go 1.22.0
 
